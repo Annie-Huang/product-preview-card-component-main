@@ -1,0 +1,9 @@
+Taking on a Frontend Mentor challenge | Responsive Product Preview Card Component
+(https://www.youtube.com/watch?v=B2WL6KkqhLQ)
+
+https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa
+
+https://github.com/kevin-powell/product-preview-card-component-main
+https://github.com/Annie-Huang/product-preview-card-component-main
+
+------------------------------------------------------------------------
