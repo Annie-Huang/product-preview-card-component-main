@@ -143,6 +143,10 @@ body {
   font-size: 0.925rem;
 }
 
+.button:is(:hover, :focus) {
+  background-color: var(--clr-primary-500);
+}
+
 /* product styles */
 .product {
   --content-padding: 1.5rem;
