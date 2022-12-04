@@ -41,7 +41,7 @@ body {
   5. Improve text rendering
 */
 body {
-  line-height: 1.5;
+  line-height: 1.7;
   -webkit-font-smoothing: antialiased;
 }
 /*
@@ -76,6 +76,13 @@ h5,
 h6 {
   overflow-wrap: break-word;
 }
+
+h1,
+h2,
+h3 {
+  line-height: 1;
+}
+
 /*
   9. Create a root stacking context
 */
@@ -114,6 +121,7 @@ body {
 
   background-color: var(--clr-neutral-100);
   border-radius: 0.5rem;
+
   overflow: hidden;
 }
 
@@ -121,4 +129,16 @@ body {
   display: grid;
   gap: var(--content-spacing);
   padding: var(--content-padding);
+}
+
+.product__category {
+  font-size: 0.8125rem;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
+
+.product__title {
+  font-size: 2rem;
+  font-family: var(--ff-accent);
+  color: var(--clr-neutral-900);
 }
