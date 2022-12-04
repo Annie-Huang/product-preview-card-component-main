@@ -7,4 +7,5 @@ https://github.com/kevin-powell/product-preview-card-component-main
 https://github.com/Annie-Huang/product-preview-card-component-main
 
 https://www.joshwcomeau.com/css/custom-css-reset/
+https://www.scottohara.me/blog/2017/04/14/inclusively-hidden.html
 ------------------------------------------------------------------------
